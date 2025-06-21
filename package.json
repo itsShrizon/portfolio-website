@@ -1,0 +1,36 @@
+{
+  "name": "tanzir-portfolio",
+  "version": "1.0.0",
+  "description": "Modern portfolio website for Tanzir Hossain - Full-Stack Developer & Data Science Enthusiast",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Ready for deployment to any static hosting service'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "data-science",
+    "html5",
+    "css3",
+    "javascript",
+    "responsive-design"
+  ],
+  "author": "Tanzir Hossain",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/portfolio"
+  },
+  "homepage": "https://yourusername.github.io/portfolio",
+  "devDependencies": {},
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
