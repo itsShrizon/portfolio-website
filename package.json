@@ -1,31 +1,30 @@
 {
   "name": "tanzir-portfolio",
   "version": "1.0.0",
-  "description": "Modern portfolio website for Tanzir Hossain - Full-Stack Developer & Data Science Enthusiast",
-  "main": "index.html",
-  "scripts": {
+  "description": "Modern portfolio website for Tanzir Hossain - AI & ML Researcher and Data Analytics Specialist",
+  "main": "index.html",  "scripts": {
     "start": "python -m http.server 8000",
     "serve": "python -m http.server 8000",
     "dev": "python -m http.server 8000",
-    "build": "echo 'No build process needed for static site'",
     "deploy": "echo 'Ready for deployment to any static hosting service'"
-  },
-  "keywords": [
+  },  "keywords": [
     "portfolio",
-    "web-development",
+    "ai-research", 
+    "machine-learning",
     "data-science",
+    "nlp",
+    "deep-learning",
     "html5",
     "css3",
     "javascript",
     "responsive-design"
   ],
   "author": "Tanzir Hossain",
-  "license": "MIT",
-  "repository": {
+  "license": "MIT",  "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/portfolio"
+    "url": "https://github.com/itsShrizon/portfolio-website"
   },
-  "homepage": "https://yourusername.github.io/portfolio",
+  "homepage": "https://tanzir-portfolio.vercel.app",
   "devDependencies": {},
   "dependencies": {},
   "browserslist": [
